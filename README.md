@@ -27,6 +27,8 @@ This coding challenge is intended to demonstrate self-driven product design deci
 
 <div>I used Excalidraw to mock up a quick UI design. I made some changes along the way but this was my initial concept.</div>
 
+<img width="1192" height="1684" alt="mock-up" src="https://github.com/user-attachments/assets/b9fd064a-50d9-4375-887a-fcbad049ed52" />
+
 ## Extra Features
 
 - [x] Other thoughtful user features or design decisions **=> Improved responsiveness and accessibility, and added loading/error messages under search bar**
